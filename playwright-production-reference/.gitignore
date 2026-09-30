@@ -14,3 +14,4 @@ blob-report/
 .idea/
 .vscode/settings.json
 coverage/
+/test-results/
